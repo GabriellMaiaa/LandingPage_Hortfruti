@@ -1,0 +1,9 @@
+.receita__descricao {
+    text-align: justify;
+    font-size: 1.1875rem;
+    line-height: 1.15;
+}
+
+.receita__conteudo {
+    padding: 1rem;
+}

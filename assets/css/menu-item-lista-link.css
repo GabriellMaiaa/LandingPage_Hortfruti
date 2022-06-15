@@ -1,0 +1,24 @@
+.menu-lista {
+    display: flex;
+}
+
+.menu-item {
+    list-style: none;
+}
+
+.menu-link {
+    color:black;
+    margin: 1.25rem;
+    text-decoration: none;
+    text-transform: lowercase;
+}
+.menu-link:active {
+    color:black;
+    font-weight: bold;
+}
+.menu-item:hover {
+    color:purple;
+    font-weight: bold;
+    text-decoration: underline;
+    
+}
